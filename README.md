@@ -1,6 +1,6 @@
 # Udacity Portfolio Project
 
-This Udacity Nanodegree Project showcases a web development portfolio and is completely responsive. [Check it out!]()
+This Udacity Nanodegree Project showcases a web development portfolio and is completely responsive.
 
 ## Attribution
 Images from https://unsplash.com
